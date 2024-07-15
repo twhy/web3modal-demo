@@ -16,7 +16,7 @@ const projectId = 'b1647f008aad488cbfbc6688dde18dec'
 const metadata = {
   name: 'Web3Modal Demo',
   description: 'AppKit Example',
-  url: 'https://web3modal.com', // origin must match your domain & subdomain
+  url: 'https://web3modal-five.vercel.app', // origin must match your domain & subdomain
   icons: ['https://avatars.githubusercontent.com/u/37784886']
 }
 
